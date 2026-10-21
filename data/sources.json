@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "project": "damo-yolo",
+  "checked_date": "2026-10-21",
+  "sources": [
+    {
+      "id": "damo-upstream",
+      "title": "DAMO-YOLO",
+      "repository": "tinyvision/DAMO-YOLO",
+      "commit": "319572eef367340267ab6ab8ae253527a71d7c3a",
+      "url": "https://github.com/tinyvision/DAMO-YOLO/tree/319572eef367340267ab6ab8ae253527a71d7c3a",
+      "license_note": "Apache-2.0",
+      "used_for": "S模型及部分量化公开基线",
+      "projects": [
+        "damo-yolo"
+      ],
+      "checked_date": "2026-10-21"
+    },
+    {
+      "id": "visdrone-toolkit",
+      "title": "VisDrone DET toolkit",
+      "repository": "VisDrone/VisDrone2018-DET-toolkit",
+      "commit": "005445782213e20cb91bc50a597db3dd949e749a",
+      "url": "https://github.com/VisDrone/VisDrone2018-DET-toolkit/tree/005445782213e20cb91bc50a597db3dd949e749a",
+      "license_note": "README限制为研究用途；不等同通用开源许可",
+      "used_for": "八字段格式、忽略规则与评价协议",
+      "projects": [
+        "damo-yolo"
+      ],
+      "checked_date": "2026-10-21"
+    },
+    {
+      "id": "visdrone",
+      "title": "VisDrone",
+      "repository": "VisDrone/VisDrone-Dataset",
+      "commit": "4364e8265275dfa44fd8f767b5180af58580194d",
+      "url": "https://github.com/VisDrone/VisDrone-Dataset/tree/4364e8265275dfa44fd8f767b5180af58580194d",
+      "license_note": "已读README未见明确数据再分发许可；只链接并写独立说明",
+      "used_for": "航拍检测数据下载入口",
+      "projects": [
+        "damo-yolo"
+      ],
+      "checked_date": "2026-10-21"
+    }
+  ]
+}

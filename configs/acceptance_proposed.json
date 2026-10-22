@@ -1,0 +1,6 @@
+{
+  "max_ap_drop_pp": 1.0,
+  "max_small_ap_drop_pp": 1.0,
+  "max_group_recall_drop_pp": 2.0,
+  "min_latency_reduction": 0.15
+}

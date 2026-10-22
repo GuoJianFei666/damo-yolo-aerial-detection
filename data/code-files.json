@@ -1,0 +1,79 @@
+{
+  "recorded_date": "2026-10-22",
+  "source_archive_sha256": "d019e1b1296e6893da5b46e473f497b165db90f03f0e93685a1b36e3d73f710b",
+  "copied_implementation_files": [
+    {
+      "path": "src/aerial_quant/__init__.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/__init__.py",
+      "bytes": 79,
+      "sha256": "469401d35ddab6be099e2897ba5e72103d92cb7ebcb006641c7b4b67b8628ac2",
+      "git_blob_sha": "994a88b0cbe000fab9c97813d82745b1aa84de2b",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "src/aerial_quant/cli.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/cli.py",
+      "bytes": 1096,
+      "sha256": "45d099dc4a9567012195f1bc41bc307fba0339275f8e36fa626fb8cd57ad69d4",
+      "git_blob_sha": "090cb5cba09b04d7864ba7b82bdc15cd3e5a38da",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "src/aerial_quant/data_audit.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/data_audit.py",
+      "bytes": 6321,
+      "sha256": "79813040116b3a3fb0c9a335ed352d89ce6960c70f2aeae5662d35d1284d2239",
+      "git_blob_sha": "1e8d8d6ae3bc3cb6ee1ebc8c84f5cd667d645a6e",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "src/aerial_quant/calibration.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/calibration.py",
+      "bytes": 2276,
+      "sha256": "75dd5c4fa43e4d3b30f6eedd604e36877c3e73d3f92f8a01f503ae32e7d2baf1",
+      "git_blob_sha": "79149eb75a8bc4ac3071375200135feef6ffbf05",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "src/aerial_quant/policy.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/policy.py",
+      "bytes": 2085,
+      "sha256": "6dafdfc7ed800a759fb28df5c8bbf2831f6e72746e19bf47f9a7dff5c1a195f5",
+      "git_blob_sha": "1206a0f68e750eded9ffee7ad159c77cf4e945fc",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "src/aerial_quant/selection.py",
+      "archive_member": "damo_aerial_project/src/aerial_quant/selection.py",
+      "bytes": 5494,
+      "sha256": "d8c2991792f3afc2916e9cd339e69099898154d0e8781c03d8ad9a8797926ed8",
+      "git_blob_sha": "2bcebae56cafcfb1eb9f0b4fef9b9b6582851868",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "tests/test_research_kit.py",
+      "archive_member": "damo_aerial_project/tests/test_research_kit.py",
+      "bytes": 8792,
+      "sha256": "76ddc7e07ef62531f42173639f6453a713089c3732de6e32623ac7fec808f902",
+      "git_blob_sha": "86f7a860ba4395804f9c723225ffc43c8435f9f5",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "pyproject.toml",
+      "archive_member": "damo_aerial_project/pyproject.toml",
+      "bytes": 401,
+      "sha256": "e271ea6a280e53fc741c67976fdd1fc24dc768841e1eab2986cde9d304f1b8ad",
+      "git_blob_sha": "f2fbd0b280b33ae81effec5aad90311303732635",
+      "byte_identical_to_archive": true
+    },
+    {
+      "path": "configs/acceptance_proposed.json",
+      "archive_member": "damo_aerial_project/configs/acceptance_proposed.json",
+      "bytes": 127,
+      "sha256": "d525c9c9db81985d969102c5cb5aa5d14a1a84866f752c8b08f5906a64bdbfe6",
+      "git_blob_sha": "3e14ee01e9a74001772e72a79a80db66b7ee73fb",
+      "byte_identical_to_archive": true
+    }
+  ],
+  "project_execution_in_this_publication": false
+}

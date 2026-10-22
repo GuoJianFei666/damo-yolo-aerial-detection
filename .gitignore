@@ -1,7 +1,14 @@
 .cache/
-reports/
+reports/*
+!reports/historical-20261017/
+!reports/historical-20261017/**
 __pycache__/
 *.pyc
 .env
 .env.*
 !.env.example
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
